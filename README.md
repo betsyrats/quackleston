@@ -5,17 +5,9 @@
 <br><br>
 
  _**☆  L I N K S  ☆**_
-  <br> <a href="https://www.instagram.com/quackleston/" >instagram</a>  -  <a href="https://leetcode.com/u/wooopsiedaisies/">leetcode </a> <br>  <a href="https://static.wikia.nocookie.net/cb57497f-2867-4145-b822-bfa116279a8b/scale-to-width/755">me when code doesnt work</a>
+  <br> <a href="https://www.linkedin.com/in/betty-wu-a311a0319/" >linkedin why am i on here</a>  <br><a href="https://leetcode.com/u/betsyrats/">leetcode </a> <br> <a href="https://static.wikia.nocookie.net/cb57497f-2867-4145-b822-bfa116279a8b/scale-to-width/755">me when code doesnt work</a>
 </div>
   <!--  
   ##
   <br>
 
-✦  **education:**
-  <br>     i.  kindergarten - grade 7: Trafalgar Elementary
-  <br>     ii.  grade 8: Prince of Wales Secondary School
-
-✦  **a little about me:**
-  <br>     preferred name: Betty <br>     birthday: October 28 (10-2=8) <br>     hobbies: drawing, coding, playing the piano, and swimming
-
--->
