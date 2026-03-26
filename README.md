@@ -1,4 +1,4 @@
-# b e t s y r a t s _!_
+# hiya ^^
 
 <img align=LEFT src = "https://i.pinimg.com/474x/f6/c1/25/f6c125a041cd9aa7475c692984fdd544.jpg" width=23.8%/>
 <img align=LEFT src = "https://i.pinimg.com/474x/23/8d/46/238d460bc65ae86dfef665a94becb14c.jpg" width=33.6%/>
