@@ -16,7 +16,7 @@ $\color{#FFD1DF}{\textsf{betty wu – cs + physics}}$
 
 - junior @ prince of wales
 - building a skincare app
-- prez @ vibs -> <a href="https://vibslearn.org">website</a>
+- prez @ VIBS -> <a href="https://vibslearn.org">website</a>
 - marketing @ OMF, PTY, YMAA
 - art, piano, skiing ♡
 
